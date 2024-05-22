@@ -20,7 +20,7 @@ When running, the script continuously listens for incoming TCP SYN packets on a 
 
 1. **Clone Repository**: Clone this repository to your local machine.
    ```
-   git clone https://github.com/MrHotspot/detect-threat.git
+   git clone https://github.com/MrHotspot/DetectDOSThreat
    ```
 
 2. **Navigate to Directory**: Navigate to the directory containing the script.
